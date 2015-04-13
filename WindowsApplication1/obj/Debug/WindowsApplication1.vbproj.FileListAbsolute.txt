@@ -1,0 +1,81 @@
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Main.resources
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\chibi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Main.resources
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Main.resources
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Users\Han Nguyen\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Quanli.resources
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.QLKhachhang.resources
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.QLSanpham.resources
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Quanli.resources
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.QLKhachhang.resources
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.QLSanpham.resources
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Quanli.resources
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.QLNhanvien.resources
+G:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Splash.resources
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.QLNhanvien.resources
+C:\Users\Chibi\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Splash.resources
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.Danhsachkhachhang.resources
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.Danhsachsanpham.resources
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.Login.resources
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.QLKhachhang.resources
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.QLNhanvien.resources
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.QLSanpham.resources
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.Quanli.resources
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.Splash.resources
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Spring 2015\Cloud Computing\daintvps02267_pt9302_ASM2\FormQuanlibanhang\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
